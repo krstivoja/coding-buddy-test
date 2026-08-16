@@ -23,6 +23,7 @@ Sandbox plugin for exercising coding-buddy. Nothing ships from here.
 
 = Unreleased =
 * Added a readme file to the plugin root for WordPress.org compatibility
+* Added a README file with installation instructions and project details
 
 = 0.1.0 =
 * Initial release.
